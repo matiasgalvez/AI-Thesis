@@ -1,0 +1,5 @@
+Neural network tutorial
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+Do not install theano, install tensorflow using pip install tensorflow==2.2
+AI Environment installation guide
+https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
